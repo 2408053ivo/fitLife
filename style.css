@@ -20,3 +20,16 @@ body{
     background-color: aliceblue;
     border: 1px solid black;
 }
+
+li{
+    padding: 15px;
+    margin-left: 20px;
+}
+
+h1{
+    padding: 20px;
+}
+
+h2, h4{
+    padding: 15px;
+}
