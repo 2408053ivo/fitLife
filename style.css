@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(12, 8, 37);
+}
+
+.hero{
+    background-color: rgb(78, 78, 187);
+    text-align: center;
+    margin-top: 0;
+    height: 100px;
+}
+
+.plan{
+    margin-top: 50px;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+
+.time{
+    margin-top: 50px;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
